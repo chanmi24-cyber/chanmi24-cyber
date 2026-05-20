@@ -35,6 +35,4 @@
 <br>
 
 ## GitHub 통계
-![chanmi24-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmi24-cyber&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmi24-cyber&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://streak-stats.demolab.com?user=chanmi24-cyber&theme=default&hide_border=true)
