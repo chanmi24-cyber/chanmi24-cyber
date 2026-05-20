@@ -35,4 +35,4 @@
 <br>
 
 ## GitHub 통계
-![GitHub stats](https://streak-stats.demolab.com?user=chanmi24-cyber&theme=default&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=chanmi24-cyber&show_icons=true
