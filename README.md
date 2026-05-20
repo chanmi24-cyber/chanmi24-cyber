@@ -35,4 +35,4 @@
 <br>
 
 ## GitHub 통계
-https://github-readme-stats.vercel.app/api?username=chanmi24-cyber&show_icons=true
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanmi24-cyber&theme=default)
