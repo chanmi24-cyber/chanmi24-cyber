@@ -29,8 +29,10 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [그린대학교 학사 시스템 BE](https://github.com/chanmi24-cyber/be-green-uni) | 대학교 학사 관리 백엔드 (강의 개설/승인) | Spring Boot, MyBatis, MySQL |
-| [그린대학교 학사 시스템 FE](https://github.com/chanmi24-cyber/fe-green-uni) | 대학교 학사 관리 프론트엔드 | Vue 3, Axios, Pinia |
+| [MSA] 그린대학교 학사 시스템 BE ([링크](https://github.com/chanmi24-cyber/be-msa-green-uni)) | 강의개설/승인관리, 강의평가, 학사일정관리, 알림 | Spring Boot, JPA, MyBatis, MySQL, Kafka, WebSocket/STOMP, Spring Scheduler |
+| [MSA]그린대학교 학사 시스템 FE ([링크](https://github.com/chanmi24-cyber/fe-msa-green-uni)) | 강의개설/승인관리, 강의평가, 학사일정관리, 알림 도메인 풀스택 FE | Vue 3, JavaScript, FullCalendar, Axios |
+|  [MA]그린대학교 학사 시스템 BE ([링크](https://github.com/chanmi24-cyber/be-green-uni)) | 대학교 학사 관리 백엔드 (강의 개설/승인) | Spring Boot, MyBatis, MySQL |
+|  [MA]그린대학교 학사 시스템 FE ([링크](https://github.com/chanmi24-cyber/fe-green-uni)) | 대학교 학사 관리 프론트엔드 | Vue 3, Axios, Pinia |
 
 <br>
 
