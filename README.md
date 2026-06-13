@@ -36,4 +36,5 @@
 
 ## GitHub 통계
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanmi24-cyber&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmi24-cyber&layout=donut)
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmi24-cyber&layout=compact&theme=radical)
